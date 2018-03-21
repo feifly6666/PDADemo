@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\.android\build-cache\0bd394825465616de7a474fc5b8a793d967dd57c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\WorkSpace\MT65Demo\app\build\intermediates\pre-dexed\debug\classes_6deacdac4be48942d73e7287bc48a0170cd84a3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\.android\build-cache\a0b7f66e095dc811d94d5cff6706a7f80cd363cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\WorkSpace\MT65Demo\app\build\intermediates\pre-dexed\debug\classes_d0046595d8f96a12c13a26a47e0a2634eeb3ab09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\MT65Demo\app\libs\nlscan_sdk_master.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a284b119ee64be422747000167fbdd2e1405543c">
+        <dex dex="E:\WorkSpace\MT65Demo\app\build\intermediates\pre-dexed\debug\nlscan_sdk_master_7692a7cd6ffc2b1ee1750c3e20c49c13230962ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\.android\build-cache\626b8001448168c5c2a306607a66b4fa554f3ee5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\WorkSpace\MT65Demo\app\build\intermediates\pre-dexed\debug\classes_6aeb50dae7c1a9d65e8c686510b80eb0368dc9e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\.android\build-cache\e87fb4d4e1c58bbf4f6e7082a0b0221d435d8087\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\WorkSpace\MT65Demo\app\build\intermediates\pre-dexed\debug\classes_c59f15e6c3718f10652f1075d49b755ad2b230be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\.android\build-cache\0f02c68642c7efdfdd9fa3a42cc4180a1cb80713\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\WorkSpace\MT65Demo\app\build\intermediates\pre-dexed\debug\classes_b923a6900a22363345ba84d5b074524f70a4e125.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\.android\build-cache\16db94fe529ae2c83ece9019099506d8cce0d142\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\WorkSpace\MT65Demo\app\build\intermediates\pre-dexed\debug\classes_40a3b46f45a3a0345db9842358e4be1ed4ebcf78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\.android\build-cache\9c850acee861119c50a097bb732af856b3fef4a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\WorkSpace\MT65Demo\app\build\intermediates\pre-dexed\debug\classes_70277cb268dc21039eb29ecd8b308bffc47eb425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\.android\build-cache\a42bbeaddd27d88d335afed5ad4191d4b760adec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\WorkSpace\MT65Demo\app\build\intermediates\pre-dexed\debug\classes_57c8927eff91e56c5d8472a9d49691ef1ca1d4a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\.android\build-cache\a7b35bdedd09ec35f73353b4a9ead1a2710d2553\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\WorkSpace\MT65Demo\app\build\intermediates\pre-dexed\debug\classes_222bc23642e8427627d010ebbe4035374a756b73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\.android\build-cache\710b3d419a05aa758ea1ad0173f7e6dd273e8c87\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\WorkSpace\MT65Demo\app\build\intermediates\pre-dexed\debug\classes_2868e083e9194f09f7f4994f3f47defb1280dd61.jar" />
+    </item>
+
+</items>
