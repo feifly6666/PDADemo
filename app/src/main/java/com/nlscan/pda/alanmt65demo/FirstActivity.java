@@ -9,7 +9,12 @@ import android.widget.Button;
 import com.nlscan.pda.alanmt65demo.nfcdemo.NfcDemoActivity;
 import com.nlscan.pda.alanmt65demo.scandemo.ScanDemoActivity;
 import com.nlscan.pda.alanmt65demo.aimiddemo.AimidDemoActivity;
-
+/**
+ * @author Alan
+ * @Company nlscan
+ * @date 2017/12/16 23:02
+ * @Description:
+ */
 public class FirstActivity extends AppCompatActivity implements View.OnClickListener{
     Button btnScanDemo;
     Button btnAimidDemo;
